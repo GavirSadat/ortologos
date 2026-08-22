@@ -1,0 +1,12 @@
+name: ete3
+channels:
+  - conda-forge
+  - bioconda
+  - etetoolkit
+  - defaults
+dependencies:
+  - mafft
+  - iqtree
+  - trimal
+  - ete3
+  - ete_toolchain
