@@ -9,4 +9,3 @@ dependencies:
   - iqtree
   - trimal
   - ete3
-  - ete_toolchain
